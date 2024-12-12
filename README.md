@@ -44,7 +44,7 @@
 
 - 🌟 **Name:** Pasan Sasmika
 - 🚀 **Passion:** Creating amazing projects
-- 💻 **Skills:** Python, JavaScript, PHP, HTML, CSS, React, Express.js, Node.js, MongoDB, SQL
+- 💻 **Skills:** JavaScript, PHP, HTML, CSS, React, Express.js, Node.js, MongoDB, SQL
 - 🎯 **Goal:** Building impactful systems
 
 <p align="center">
