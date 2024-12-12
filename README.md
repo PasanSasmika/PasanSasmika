@@ -34,15 +34,24 @@
 
 ---
 
+
+
 ### Contribution Stats 🏆
 
 <p align="center">
   <a href="https://github.com/PasanSasmika">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasanSasmika&theme=react" alt="GitHub Summary" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); width: 100%; max-width: 800px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PasanSasmika&theme=react" alt="Most Commit Language" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); width: 100%; max-width: 800px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PasanSasmika">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=PasanSasmika&theme=react" alt="Commit Activity" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); width: 100%; max-width: 800px;">
   </a>
 </p>
 
 ---
+
 
 
 ### About Me ✨
