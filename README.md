@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 
 <h2 align="center" style="color: #6A1B9A;">Hi, I am Pasan Sasmika.</h2>
 <h3 align="center" style="color: #303F9F;">Don't forget to follow me!</h3>
@@ -36,13 +36,9 @@
 
 ### Contribution Stats 🏆
 
-<p align="center">
-  <a href="https://github.com/PasanSasmika">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasanSasmika&theme=solarized-light" alt="GitHub Summary" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); width: 100%; max-width: 800px;">
-  </a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasanSasmika&theme=react" alt="GitHub Summary">
 
-
+---
 
 ### About Me ✨
 
