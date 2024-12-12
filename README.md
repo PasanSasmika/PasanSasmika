@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername?tab=stars"><img src="https://img.shields.io/github/stars/PasanSasmika?style=social" alt="GitHub Stars"></a>
-  <a href="https://github.com/YourGitHubUsername?tab=followers"><img src="https://img.shields.io/github/followers/PasanSasmika?style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/PasanSasmika?tab=stars"><img src="https://img.shields.io/github/stars/PasanSasmika?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/PasanSasmika?tab=followers"><img src="https://img.shields.io/github/followers/PasanSasmika?style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
