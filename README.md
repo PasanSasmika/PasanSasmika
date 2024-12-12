@@ -1,53 +1,3 @@
-<style>
-  /* Adding keyframe animations */
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  /* Apply animation to headers */
-  h1, h2, h3 {
-    animation: fadeIn 1.5s ease-out;
-  }
-
-  h1 {
-    animation-delay: 0s;
-  }
-
-  h2 {
-    animation-delay: 0.5s;
-  }
-
-  h3 {
-    animation-delay: 1s;
-  }
-
-  /* Animation for GitHub badges */
-  .github-badge {
-    animation: fadeIn 2s ease-out;
-    opacity: 0;
-    transform: translateY(20px);
-  }
-
-  .github-badge:nth-child(1) {
-    animation-delay: 1.5s;
-  }
-
-  .github-badge:nth-child(2) {
-    animation-delay: 2s;
-  }
-
-  .github-badge:nth-child(3) {
-    animation-delay: 2.5s;
-  }
-</style>
-
 <h1 align="center">Hi there 👋</h1>
 
 <h2 align="center" style="color: #6A1B9A;">Hi, I am Pasan Sasmika.</h2>
@@ -57,11 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=PasanSasmika&color=green" alt="Profile Views">
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/PasanSasmika?tab=stars" class="github-badge">
+  <a href="https://github.com/PasanSasmika?tab=stars">
     <img src="https://img.shields.io/github/stars/PasanSasmika?style=social" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/PasanSasmika?tab=followers" class="github-badge">
+  <a href="https://github.com/PasanSasmika?tab=followers">
     <img src="https://img.shields.io/github/followers/PasanSasmika?style=social" alt="GitHub Followers">
   </a>
 </p>
