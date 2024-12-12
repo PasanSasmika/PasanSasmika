@@ -63,5 +63,6 @@
 
 ### Connect with Me 📩
 
-- 💼 [LinkedIn](www.linkedin.com/in/pasan-sasmika)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pasan-sasmika)
 - 📧 [Email](mailto:pasansasmika198@gmail.com)
+- 📱 **Phone:** +94 702896153
