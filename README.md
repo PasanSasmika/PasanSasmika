@@ -63,5 +63,5 @@
 
 ### Connect with Me 📩
 
-- 💼 [LinkedIn](https://linkedin.com/in/YourLinkedIn)
-- 📧 [Email](mailto:YourEmail@example.com)
+- 💼 [LinkedIn](www.linkedin.com/in/pasan-sasmika)
+- 📧 [Email](mailto:pasansasmika198@gmail.com)
