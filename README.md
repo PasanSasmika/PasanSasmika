@@ -38,11 +38,10 @@
 
 <p align="center">
   <a href="https://github.com/PasanSasmika">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasanSasmika&theme=react" alt="GitHub Summary" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); width: 100%; max-width: 800px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasanSasmika&theme=solarized-light" alt="GitHub Summary" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); width: 100%; max-width: 800px;">
   </a>
 </p>
 
----
 
 
 ### About Me ✨
