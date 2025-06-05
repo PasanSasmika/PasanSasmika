@@ -1,50 +1,48 @@
-🌈 Hello World! I'm Pasan Sasmika 🚀
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F0d2Z0d3p3c2V1aGQ1b3Y4dGJzbnp4ZTR6dXJqZ3FpcmRlcnFqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding Animation"> </div>
-👨‍💻 About Me
-javascript
-const pasan = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "PHP", "HTML/CSS", "Python"],
-  frameworks: ["React", "Express", "Node.js"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Git", "Docker", "AWS", "VS Code"],
-  architecture: ["Microservices", "Serverless", "RESTful APIs"],
-  passions: ["Building impactful systems", "Solving complex problems", 
-             "Creating elegant UI/UX", "Mentoring junior developers"],
-  funFact: "I once fixed a critical production bug while skydiving! 🪂"
-};
-🛠️ Tech Stack Superpowers
-Frontend Wizardry 🧙
-React
-Tailwind
-Redux
-Three.js
 
-Backend Mastery ⚙️
-Node.js
-Express
-PHP
-Python
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&color=FF00FF%C2%A2er=true&vCenter=true&width=650&height=80&lines=Hey+There!+%F0%9F%9A%80;Welcome+to+Pasan+Sasmika's+World!)# **🌌 Pasan Sasmika**
 
-Database Sorcery 🧪
-MongoDB
-Firebase
-PostgreSQL
+### *Code Wizard | Dream Builder | System Innovator*
 
-📊 GitHub Galaxy
-<div align="center"> <a href="https://github.com/PasanSasmika"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasanSasmika&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=30,ff7e5f,feb47b&title_color=fff&text_color=fff&icon_color=fff&border_color=fff"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasanSasmika&layout=compact&theme=radical&bg_color=30,00c9ff,92fe9d&title_color=fff&text_color=fff&icon_color=fff&border_color=fff"/> </a> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasanSasmika&theme=tokyonight&background=0D1117&border=444&stroke=9246FF&ring=FF00E5&fire=FF5E00&currStreakNum=FFF&sideNums=FFF&currStreakLabel=9246FF&sideLabels=9246FF&dates=8070FF" alt="GitHub Streak"> </div>
-🏆 Achievements Unlocked
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PasanSasmika&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"> </div>
-🎨 Creative Projects
-🌟 Featured Creations
-Project	Description	Tech Stack
-Nexus	AI-powered collaboration platform	React, Node.js, TensorFlow
-QuantumDB	Next-gen database management system	Python, PostgreSQL, Redis
-PixelFlow	Interactive design playground	Three.js, WebGL, Canvas API
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5oM2VwM2JwdnM5eWQyYWx2b2h0aGp5cGx2N2ZzY2t2dDZ6eWY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyY/giphy.gif" width="400" alt="Project Showcase"> </div>
-🌐 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/pasan-sasmika"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"> </a> <a href="mailto:pasansasmika198@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"> </a> <a href="https://twitter.com/PasanSasmika"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"> </a> <a href="https://dev.to/pasansasmika"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" alt="Dev.to"> </a> </div>
-💫 Coding Philosophy
-"I don't just write code - I craft digital experiences that solve real problems and delight users. Every line of code is a brushstroke on the canvas of possibility."
+![Profile Views](https://komarev.com/ghpvc/?username=PasanSasmika&color=FF4500&style=for-the-badge&label=Profile+Views)---
 
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F1dXkzY3l2dTl0a2t4cGx3d3J6ZzN3bGZ6cWpzZ3JkbWx5a3g5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UCCqg/giphy.gif" width="150" alt="Coding Heart"> <br> <h3 style="color:#9246FF; font-family: 'Comic Sans MS', cursive;">Let's build something extraordinary together! 🚀</h3> </div>
+### 🌟 Who Am I?
+
+- **Name:** Pasan Sasmika
+- **Vibe:** A passionate coder who turns ideas into reality
+- **Mission:** Crafting systems that solve problems and inspire
+- **Fun Fact:** I dream in code and wake up to build it!
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)---
+
+### 🎨 My Tech Palette
+
+![](https://skillicons.dev/icons?i=js,php,html,css,react,express,nodejs,mongodb,sqlite,tailwind,vscode,git)"Code is my canvas, and these are my colors!"
+
+---
+
+### 📈 My GitHub Journey
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasanSasmika&show_icons=true&theme=neon&hide_border=true&bg_color=1F1F1F&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PasanSasmika&layout=compact&theme=neon&hide_border=true&bg_color=1F1F1F&title_color=00FFFF&text_color=FFFFFF)\---
+
+### 🌍 Contribution Universe
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PasanSasmika&theme=react-dark&bg_color=1F1F1F&color=FFD700&line=FF00FF&point=00FFFF)\---
+
+### ✨ Stellar Projects
+
+![Project 1](https://img.shields.io/badge/Project%201-Dive%20In-FF00FF?style=for-the-badge&logo=github&logoColor=FFFFFF)![Project 2](https://img.shields.io/badge/Project%202-Check%20It-00FFFF?style=for-the-badge&logo=github&logoColor=FFFFFF)![Rocket GIF](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)---
+
+### 📡 Let’s Connect!
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?logo=linkedin&logoColor=1F1F1F&style=for-the-badge)![Email](https://img.shields.io/badge/Email-FF4500?logo=gmail&logoColor=FFFFFF&style=for-the-badge)![WhatsApp](https://img.shields.io/badge/WhatsApp-00FF00?logo=whatsapp&logoColor=FFFFFF&style=for-the-badge)\---
+
+### 💡 My Coding Philosophy
+
+- 🧹 **Clean Code:** Writing code that's a joy to read.
+- 📚 **Continuous Learning:** Always exploring new technologies.
+- 🤝 **Collaboration:** Believing in the power of community.
+- 🌍 **Impact:** Creating solutions that matter.
+
+---
+
+![Thanks GIF](https://media.giphy.com/media/3o7TKtnuWXkLpwDIOI/giphy.gif)Thanks for stopping by! ✨
