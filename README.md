@@ -1,76 +1,122 @@
-<h1 align="center">Hello World! 👋</h1>
-
-<h2 align="center" style="color: #4A00E0; font-weight: 700;">I'm Pasan Sasmika</h2>
-<h3 align="center" style="color: #555; font-weight: 400;">Passionate Developer | Building Impactful Systems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PasanSasmika&color=00cc00&style=flat-square" alt="Profile Views">
-</p>
-
-<p align="center">
-  <a href="https://github.com/PasanSasmika?tab=stars">
-    <img src="https://img.shields.io/github/stars/PasanSasmika?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/PasanSasmika?tab=followers">
-    <img src="https://img.shields.io/github/followers/PasanSasmika?style=social" alt="GitHub Followers">
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PasanSasmika&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasanSasmika&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" width="40%">
+  <img src="https://via.placeholder.com/800x200/FF5733/FFFFFF?text=Welcome+to+Pasan%27s+World" alt="Banner" width="100%">
+  <h1 style="color: #FF5733; font-size: 40px; margin: 10px;">🌟 Pasan Sasmika 🌟</h1>
+  <p style="color: #FFD700; font-size: 20px; font-style: italic;">Code Wizard | System Builder | Adventure Enthusiast</p>
 </div>
 
 ---
 
-### 🏆 Contribution Stats
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasanSasmika&theme=dracula" alt="Contribution Stats">
+<div style="display: flex; align-items: center; justify-content: center; background: linear-gradient(90deg, #4A00E0, #8E2DE2); padding: 20px; border-radius: 10px; color: white;">
+  <img src="https://via.placeholder.com/150/FFD700/000000?text=Me" alt="Profile Picture" style="border-radius: 50%; animation: pulse 2s infinite; margin-right: 20px;" width="150">
+  <div>
+    <h2 style="color: #FFD700; font-size: 28px;">Hey There! 👋</h2>
+    <p style="font-size: 16px;">I'm Pasan Sasmika, a passionate developer who thrives on turning ideas into reality through code. I specialize in crafting innovative, impactful systems that solve real-world problems. When I'm not coding, you’ll find me hiking trails or capturing life through my camera lens.</p>
+    <p style="font-size: 16px;">🎨 <b>Hobbies:</b> Hiking, Photography, Exploring Tech Trends</p>
+    <p style="font-size: 16px;">💡 <b>Motto:</b> "Build it bold, make it last."</p>
+  </div>
+</div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+</style>
+
+---
+
+## 🛠️ My Skills
+
+<div style="text-align: center; background: #FFF3E0; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2 style="color: #E67E22; font-size: 28px;">What I Bring to the Table</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48">
+      <p style="color: #D35400; font-weight: bold;">JavaScript</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="48">
+      <p style="color: #D35400; font-weight: bold;">PHP</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48">
+      <p style="color: #D35400; font-weight: bold;">HTML</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48">
+      <p style="color: #D35400; font-weight: bold;">CSS</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48">
+      <p style="color: #D35400; font-weight: bold;">React</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48">
+      <p style="color: #D35400; font-weight: bold;">Node.js</p>
+    </div>
+  </div>
 </div>
 
 ---
 
-### ✨ About Me
+## 🌟 Featured Projects
 
-- 🌟 **Name:** Pasan Sasmika  
-- 🚀 **Passion:** Crafting innovative and impactful projects  
-- 💻 **Skills:** JavaScript, PHP, HTML, CSS, React, Express.js, Node.js, MongoDB, SQL  
-- 🎯 **Goal:** Building systems that make a difference  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React">
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" alt="Express.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat-square" alt="SQL">
+<div style="background: #E8F8F5; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2 style="color: #16A085; font-size: 28px; text-align: center;">My Creations</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="width: 300px; text-align: center; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="https://via.placeholder.com/300x200/16A085/FFFFFF?text=Project+1" alt="Project 1" width="100%">
+      <h3 style="color: #16A085; font-size: 20px;">Project 1</h3>
+      <p style="color: #555;">A cool project that does amazing things. Built with React and Node.js.</p>
+      <a href="https://github.com/PasanSasmika/project1" style="color: #16A085; text-decoration: none; font-weight: bold;">Check it Out!</a>
+    </div>
+    <div style="width: 300px; text-align: center; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="https://via.placeholder.com/300x200/16A085/FFFFFF?text=Project+2" alt="Project 2" width="100%">
+      <h3 style="color: #16A085; font-size: 20px;">Project 2</h3>
+      <p style="color: #555;">An innovative tool to simplify life. Powered by PHP and MongoDB.</p>
+      <a href="https://github.com/PasanSasmika/project2" style="color: #16A085; text-decoration: none; font-weight: bold;">Check it Out!</a>
+    </div>
+  </div>
 </div>
 
 ---
 
-### 📩 Connect with Me
+## 📈 GitHub Highlights
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pasan-sasmika">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="mailto:pasansasmika198@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email">
-  </a>
-  <a href="tel:+94702896153">
-    <img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="Phone">
-  </a>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PasanSasmika&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasanSasmika&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%">
 </div>
 
-<p align="center" style="color: #777; font-size: 14px;">
-  Let's build something extraordinary together! 🚀
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YnXpboatdl1i/giphy.gif" alt="Coding GIF" width="300">
+</div>
+
+---
+
+## 📬 Let’s Connect!
+
+<div style="text-align: center; background: #F4ECF7; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2 style="color: #8E44AD; font-size: 28px;">Reach Out Anytime</h2>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.linkedin.com/in/pasan-sasmika" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48">
+    </a>
+    <a href="mailto:pasansasmika198@gmail.com" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="48">
+    </a>
+    <a href="tel:+94702896153" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="48">
+    </a>
+  </div>
+</div>
+
+---
+
+<div align="center" style="margin-top: 40px;">
+  <p style="color: #777; font-size: 16px; font-style: italic;">"The best way to predict the future is to create it." - Peter Drucker</p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Wave GIF" width="100">
+</div>
